@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoneWolf2004
 - 👀 I’m interested in Machine learning and Artificial Intelligence
-- 🌱 I’m currently learning Python language, Data Structure and Algorithms
+- 🌱 I’m currently learning Deep Learning and related MLOps softwares/tools
 - 💞️ I’m looking to collaborate on any project that helps me learn
 - 📫 How to reach me: email- monishkamwal06@gmail.com
  <!---
